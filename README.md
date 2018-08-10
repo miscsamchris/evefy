@@ -12,7 +12,7 @@
     }
     
 
-![Cover](screenshots/cover.png)
+![Cover](Hackathon/screenshots/cover.png)
 
 ### Problem : Fake News ###
 
@@ -29,7 +29,7 @@ Often sensational and factually incorrect news is created and spread through soc
 
 ----------------------
 
-![Trends](screenshots/rattings.png)
+![Trends](Hackathon/screenshots/rattings.png)
 
 ## Features ##
 
@@ -40,7 +40,7 @@ Often sensational and factually incorrect news is created and spread through soc
 - [x] Dynamic Database
 
 
-![Trending](screenshots/dt1.png)
+![Trending](Hackathon/screenshots/dt1.png)
 
 
 ## Deployement ##
